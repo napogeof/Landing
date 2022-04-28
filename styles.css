@@ -55,6 +55,9 @@ section {
     position: relative;
     height: 100vh;
     overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .video-object {
     position: absolute;
