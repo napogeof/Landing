@@ -63,9 +63,12 @@ section {
 }
 
 .trailer {
-    position: relative;
+    position: center;
     width: fit-content;
     overflow: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .embed-responsive {
